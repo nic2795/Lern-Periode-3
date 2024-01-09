@@ -11,8 +11,8 @@ Am Ende der LP2 habe ich mir vorgenommen einen kleinen Web-Shop zu programmieren
 Was wäre ein geeignetes Projekt würd diese LP3?
 In dieser Lernperiode, möchte ich es nochmals mit dem Web-Shop probieren. Ich werde mir diese Mal mehr Zeit nehmen und von anfang an probieren so sauberen Code wie möglich zu schreiben. Saueberer Code heisst für mich keine Wiederholungen, lieber schleifen. Der Code soll so kompakt wie möglich sein.
 
-9.1.2024
-✍️ Heute habe ich... (50-100 Wörter)
+## 9.1.2024
+✍️ Heute habe ich erstmal damit beschäftigt wie ich eine gut Webseite machen kann. Da ich noch keine Ahnung von html habe, habe ich mir ein gutes Tutorial zu html gesucht und dies angeschaut. Da dies nicht so schwierig ist wie ich dachte, habe ich direkt einmal selber probiert. Ich konnte jetzt durch dieses kurze Tutorial schon die erste Ansicht meiner Webseite gestallten. Ich habe mich dazu entschieden einen Währungsumrechner zu programmieren auf meiner Webseite. (74 Wörter)
 
 16.1.2024
 - [ ] Man soll die Webseite öffnen können

@@ -19,11 +19,11 @@ In dieser Lernperiode, möchte ich es nochmals mit dem Web-Shop probieren. Ich w
 - [ ] Webseite soll Inhalt haben
 - [ ] Code auf Github
 
-estfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-1	Kann man die Webseite öffnen?
-2 Hat die Webseite Inhalt?
-3 Ist der Code auf Github?
-4 Ist der Code schön und verständlich geschriebn?	
+Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
+- [ ]	1 Kann man die Webseite öffnen?
+- [ ] 2 Hat die Webseite Inhalt?
+- [ ] 3 Ist der Code auf Github?
+- [ ] 4 Ist der Code schön und verständlich geschriebn?	
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
@@ -35,10 +35,10 @@ estfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 - [ ] Auf Webseite soll kurz stehen, was diese ist und von wem sie gemacht wurde
 
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-5	Kann die Webseite jeder öffnen?
-6 Ist der Code auf Github?
-7 Steht alles was ich auf der Webseite möchte auf der Seit?
-8 Funktioniert der Währungsrechner?
+- [ ] 5	Kann die Webseite jeder öffnen?
+- [ ] 6 Ist der Code auf Github?
+- [ ] 7 Steht alles was ich auf der Webseite möchte auf der Seit?
+- [ ] 8 Funktioniert der Währungsrechner?
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 

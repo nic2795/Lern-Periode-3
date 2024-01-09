@@ -5,16 +5,19 @@ Niclas Dontschew
 
 ## Grob-Planung
 
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
+Mit den Noten stehe ich denke ich, genau bei einem 4er. Jedoch fehlt uns noch die Note von dem Modul 162, in welchem ich, denke ich, nicht schlcht abgeschlossen habe. Im Modul 319, war ich eigentlich nicht schlecht, jedoch habe ich beim Programmierauftrag die falsche Datei abgegeben und deswegen konnte mein Code nicht bewertet werden.
+Am Ende der LP2 habe ich mir vorgenommen einen kleinen Web-Shop zu programmieren, jedoch ging dies schief. Das beste Projekt, das ich in der LP2 gemacht habe, war denke ich der Vokabeltrainer und das Flappy-Bird spiel. Ich habe in diesen Projekten nicht nur C# Coden gelernt, sondern auch Windows-Forms und WPA.
+
 Was wäre ein geeignetes Projekt würd diese LP3?
+In dieser Lernperiode, möchte ich es nochmals mit dem Web-Shop probieren. Ich werde mir diese Mal mehr Zeit nehmen und von anfang an probieren so sauberen Code wie möglich zu schreiben. Saueberer Code heisst für mich keine Wiederholungen, lieber schleifen. Der Code soll so kompakt wie möglich sein.
+
 9.1.2024
 ✍️ Heute habe ich... (50-100 Wörter)
 
-16.1 und 23.1.2024
-[ ] Erstes Arbeitspaket
-[ ] ...
-[ ] Viertes AP
+16.1.2024
+[ ] Man soll die Webseite öffnen können
+[ ] Webseite soll Inhalt haben
+[ ] Code auf Github
 estfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 1				
 ...				
@@ -24,10 +27,9 @@ estfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 23.1.2024
-[ ] Fünftes AP
-[ ] ...
-
-[ ] Achtes AP
+[ ] Webseite soll anschaubar sein, noch nicht 100% funkionieren
+[ ] Code auf Github
+[ ] Auf Webseite soll kurz stehen, was diese ist und von wem sie gemacht wurde
 
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 5				

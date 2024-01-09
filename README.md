@@ -15,11 +15,9 @@ In dieser Lernperiode, möchte ich es nochmals mit dem Web-Shop probieren. Ich w
 ✍️ Heute habe ich... (50-100 Wörter)
 
 16.1.2024
-[ ] Man soll die Webseite öffnen können
-
-[ ] Webseite soll Inhalt haben
-
-[ ] Code auf Github
+- [ ] Man soll die Webseite öffnen können
+- [ ] Webseite soll Inhalt haben
+- [ ] Code auf Github
 
 estfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 1				
@@ -30,9 +28,9 @@ estfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 23.1.2024
-[ ] Webseite soll anschaubar sein, noch nicht 100% funkionieren
-[ ] Code auf Github
-[ ] Auf Webseite soll kurz stehen, was diese ist und von wem sie gemacht wurde
+- [ ] Webseite soll anschaubar sein, noch nicht 100% funkionieren
+- [ ] Code auf Github
+- [ ] Auf Webseite soll kurz stehen, was diese ist und von wem sie gemacht wurde
 
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 5				

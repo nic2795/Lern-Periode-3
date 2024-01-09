@@ -16,8 +16,11 @@ In dieser Lernperiode, möchte ich es nochmals mit dem Web-Shop probieren. Ich w
 
 16.1.2024
 [ ] Man soll die Webseite öffnen können
+
 [ ] Webseite soll Inhalt haben
+
 [ ] Code auf Github
+
 estfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 1				
 ...				

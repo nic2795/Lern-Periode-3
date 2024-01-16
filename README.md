@@ -20,12 +20,12 @@ In dieser Lernperiode, möchte ich es nochmals mit dem Web-Shop probieren. Ich w
 - [ ] Code auf Github
 
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-- [ ]	1 Kann man die Webseite öffnen?
-- [ ] 2 Hat die Webseite Inhalt?
-- [ ] 3 Ist der Code auf Github?
-- [ ] 4 Ist der Code schön und verständlich geschriebn?	
+- [ ]	1 Kann man die Webseite öffnen? Ja mann kann dies durch das Ausführen des Codes öffnen.
+- [ ] 2 Hat die Webseite Inhalt? Ja, die Grundlegenden Inhalte sind sichtbar.
+- [ ] 3 Ist der Code auf Github? Ja
+- [ ] 4 Ist der Code schön und verständlich geschriebn?	Ja
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+✍️ Heute am 16.1 habe ich an meinem Währungsrechner weitergearbeitet. Ich habe heute produktiv an meinem Code gearbeitet, ich habe ihn nochmals etwas schöner und verständlicher geschrieben. Ausserdem habe ich an den Proportionen der eingefügten Bildern und an der Schriftart und grösse gearbeitet. Ich werde meinen Code heute noch auf Github hochladen.  (51 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 

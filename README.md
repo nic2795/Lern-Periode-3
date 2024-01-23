@@ -40,7 +40,7 @@ Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 - [ ] 7 Steht alles was ich auf der Webseite möchte auf der Seit?
 - [ ] 8 Funktioniert der Währungsrechner?
 
-✍️ Heute am 23.1 habe ich meinen Währungsrechner fertig gestellt und habe ihn Online gestellt. Jedoch ist die Wàhrung im Moment von Euro zu US-Doller begrenzt, was mir noch nicht so gefällt. Im Moment arbeite ich noch an einer Dropdown liste, dasss man dann aussuchen kann welche Währung benutzt werden soll. Denn Code werde ich heute noch hochladen, wenn ich so weit bin. (62 Wörter)
+✍️ Heute am 23.1 habe ich meinen Währungsrechner fertig gestellt und habe ihn Online gestellt. Jedoch ist die Währung im Moment von Euro zu US-Doller begrenzt, was mir noch nicht so gefällt. Im Moment arbeite ich noch an einer Dropdown liste, dass man dann aussuchen kann welche Währung benutzt werden soll. Denn Code werde ich heute noch hochladen, wenn ich so weit bin. (62 Wörter)
 Hier ist der Link zu meinem Rechner: https://waehrungrechner-niclas.netlify.app 
 Wenn Sie den Link auf dem Handy höffen, und dann als Web-App hinzufügen, sieht es so aus, wie es gedacht ist.
 

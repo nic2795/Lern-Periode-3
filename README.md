@@ -49,7 +49,8 @@ Wenn Sie den Link auf dem Handy höffen, und dann als Web-App hinzufügen, sieht
 30.1.2024
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
-Reflexion
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+## Reflexion
+In dieser Lern-Periode, habe ich eine Webseite mit html, JavaScript und CSS programmiert und gestylt. Dies war auch mein Ziel am Ende der Lern-Periode-2. Ich find für das erste Mal, dass ich eine Webseite erstellt habe, ist es ziemlich gut rausgekommen. Auch wenn nicht alles so ist wie ich es wollte, eigentlich sollte die untere Währung, also in die, in die es umgerechnet werden soll nicht fest sein. Es sollte eine Dropdown liste mit der jeweiligen Flage der Währung sein, die dann mit einer API umgerechnet werden sollte. Jedoch habe ich es nicht geschafft, mit der Dropdown liste. Ich habe so lange daran probiert, dass die API keine Zeit mehr hatte. Jedoch denke ich, dass ich dies in den Ferien nochmals einfach für mich selber probieren werde. Ansonsten gab es keine Probleme, da ich alles Googeln konnte, was ich nicht geschafft habe. (142 Wörter)
 
 Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 9-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
+Ich fand diese Lern-Periode (also 4 Wochen) besser. Es könnte an meinem Projekt liegen, da ich dies perfekt in diesen 4 Wochen fertig machen konnte. Jedoch finde ich, dass 9 Wochen etwas lange sind. Für meine Planung hat dies keinen Effekt. Ich habe es in beiden Lernperioden gut managen können mit der Planung. (53 Wörter)
